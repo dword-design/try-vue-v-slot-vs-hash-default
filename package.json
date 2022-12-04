@@ -1,10 +1,12 @@
 {
+  "name": "try-vue-v-slot-vs-hash-default",
   "version": "1.0.0",
   "private": true,
   "repository": "dword-design/try-vue-v-slot-vs-hash-default",
   "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "type": "module",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -21,11 +23,11 @@
     "test": "base test"
   },
   "devDependencies": {
-    "@dword-design/base": "^8.7.3",
+    "@dword-design/base": "^9.1.7",
     "@dword-design/base-config-nuxt": "^3.1.7"
   },
   "engines": {
-    "node": ">=12"
+    "node": ">=14"
   },
   "publishConfig": {
     "access": "public"
