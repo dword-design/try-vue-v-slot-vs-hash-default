@@ -1,5 +1,5 @@
 <!-- TITLE/ -->
-# undefined
+# try-vue-v-slot-vs-hash-default
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
@@ -53,10 +53,10 @@
 
 ```bash
 # npm
-$ npm install undefined
+$ npm install try-vue-v-slot-vs-hash-default
 
 # Yarn
-$ yarn add undefined
+$ yarn add try-vue-v-slot-vs-hash-default
 ```
 <!-- /INSTALL -->
 
