@@ -25,7 +25,7 @@
   },
   "devDependencies": {
     "@dword-design/base": "^9.1.7",
-    "@dword-design/base-config-nuxt": "^3.1.7"
+    "@dword-design/base-config-nuxt": "^6.0.0"
   },
   "engines": {
     "node": ">=14"
